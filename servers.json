@@ -1,10 +1,16 @@
 [
     {
-      "ip": "194.93.2.226",
-      "port": 1492,
-      "x2": false,
-      "name": "MARTINI BONUS",
-      "online": 5,
-      "maxonline": 1000
+      "color": "#1560BD",
+      "dopname": "(X3 АКЦИИ)",
+      "maxonline": 1000,
+      "name": "MARTINI BONUS ",
+      "online": 6
+    },
+    {
+      "color": "FFFFFF",
+      "dopname": "(НЕТ ДОСТУПА)",
+      "maxonline": 500,
+      "name": "TEST",
+      "online": 0
     }
- ]
+]
